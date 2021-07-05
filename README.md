@@ -4,17 +4,17 @@ Get number bank countries indonesia
 
 # Installation
 
-'npm i validateBankId --save'
+`npm i @teddir/validasibankindo`
 
 Then...
 
-...
+```
 
-import { validateBankId } from 'validateBankId';
+import { validateBankId } from '@teddir/validasibankindo';
 
 validateBankId(name_bank, number_bank)
 
-...
+```
 
 ## options
 
